@@ -3,3 +3,9 @@
 
 2 - O que é commit?
 é o empacotamento de alterações.
+
+3 - O que é um repositório?
+pasta que são guardadas os arquivos dos projetos.
+
+4 - O que é merge?
+juntar duas branch.
