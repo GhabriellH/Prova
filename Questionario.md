@@ -9,3 +9,6 @@ pasta que são guardadas os arquivos dos projetos.
 
 4 - O que é merge?
 juntar duas branch.
+
+5 - O que é pull?
+é puxar as informações do repositório remoto para o repositório local.
