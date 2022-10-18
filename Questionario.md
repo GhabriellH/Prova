@@ -21,3 +21,6 @@ juntar duas branch.
 
 9 - O que é fork?
 é a cópia do repositório de terceiros.
+
+10 - O que é um VCS?
+é um software de controle de versão.
