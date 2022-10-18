@@ -15,3 +15,6 @@ juntar duas branch.
 
 7 - O que é branch?
 é a ramificação do repositório ou projeto.
+
+8 - O que é pull request?
+é a solicitação de alteração.
