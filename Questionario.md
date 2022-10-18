@@ -18,3 +18,6 @@ juntar duas branch.
 
 8 - O que é pull request?
 é a solicitação de alteração.
+
+9 - O que é fork?
+é a cópia do repositório de terceiros.
