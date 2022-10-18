@@ -12,3 +12,6 @@ juntar duas branch.
 
 5 - O que é pull?
 é puxar as informações do repositório remoto para o repositório local.
+
+7 - O que é branch?
+é a ramificação do repositório ou projeto.
